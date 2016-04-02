@@ -1,0 +1,2 @@
+Connection connection = DriverManager.getConnection("jdbc:mysql://leftydb2.cysdjldjuoob.us-west-2.rds.amazonaws.com:3123/world", "balazs", "J4v4Cs0p0rt");
+https://github.com/leftygbalogh/SwingOrderManagement.git
